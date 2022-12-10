@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    text-align: center;
+}
+
+.selfyImg {
+    width: 350px;
+    height: 500px;
+}
